@@ -1,0 +1,14 @@
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\bin\Debug\net7.0\Задача C#.exe
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\bin\Debug\net7.0\Задача C#.deps.json
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\bin\Debug\net7.0\Задача C#.runtimeconfig.json
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\bin\Debug\net7.0\Задача C#.dll
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\bin\Debug\net7.0\Задача C#.pdb
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.AssemblyInfoInputs.cache
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.AssemblyInfo.cs
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.dll
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\refint\Задача C#.dll
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.pdb
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\Задача C#.genruntimeconfig.cache
+D:\Учеба GB\Итоговая Аттестация (1 четверть)\Задача C#\obj\Debug\net7.0\ref\Задача C#.dll
